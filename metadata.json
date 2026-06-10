@@ -1,0 +1,6 @@
+{
+  "name": "Echoes of the Forgotten Kingdom",
+  "description": "An interactive 2010-era Zelda-style retro RPG simulation and AI-powered character narrator engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
